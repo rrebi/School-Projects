@@ -1,0 +1,23 @@
+D:\Proiecte VS\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\bin\Debug\TTT_Abrudan_Rebeca.exe.config
+D:\Proiecte VS\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\bin\Debug\TTT_Abrudan_Rebeca.exe
+D:\Proiecte VS\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\bin\Debug\TTT_Abrudan_Rebeca.pdb
+D:\Proiecte VS\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.csprojAssemblyReference.cache
+D:\Proiecte VS\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.Form1.resources
+D:\Proiecte VS\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.Properties.Resources.resources
+D:\Proiecte VS\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.csproj.GenerateResource.cache
+D:\Proiecte VS\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.csproj.CoreCompileInputs.cache
+D:\Proiecte VS\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.exe
+D:\Proiecte VS\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.pdb
+D:\Proiecte VS\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.Generic.resources
+D:\Rebi\scoala\Proiecte VS C#\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\bin\Debug\TTT_Abrudan_Rebeca.exe.config
+D:\Rebi\scoala\Proiecte VS C#\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\bin\Debug\TTT_Abrudan_Rebeca.exe
+D:\Rebi\scoala\Proiecte VS C#\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\bin\Debug\TTT_Abrudan_Rebeca.pdb
+D:\Rebi\scoala\Proiecte VS C#\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.csproj.AssemblyReference.cache
+D:\Rebi\scoala\Proiecte VS C#\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.csproj.SuggestedBindingRedirects.cache
+D:\Rebi\scoala\Proiecte VS C#\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.Form1.resources
+D:\Rebi\scoala\Proiecte VS C#\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.Generic.resources
+D:\Rebi\scoala\Proiecte VS C#\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.Properties.Resources.resources
+D:\Rebi\scoala\Proiecte VS C#\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.csproj.GenerateResource.cache
+D:\Rebi\scoala\Proiecte VS C#\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.csproj.CoreCompileInputs.cache
+D:\Rebi\scoala\Proiecte VS C#\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.exe
+D:\Rebi\scoala\Proiecte VS C#\TTT_Abrudan_Rebeca\TTT_Abrudan_Rebeca\obj\Debug\TTT_Abrudan_Rebeca.pdb
