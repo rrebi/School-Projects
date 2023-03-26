@@ -1,5 +1,5 @@
 # School-Projects
-Some of my school projects from "C.N. Emanuil Gojdu", Oradea
+Some of my school projects (2019-2020)
 
 <br>
 
