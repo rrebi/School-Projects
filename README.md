@@ -7,7 +7,7 @@ Some of my school projects from "C.N. Emanuil Gojdu", Oradea
  • can be used for basic math operations (Addition, Subtraction, Multiplication, Division, Log) 
   
 
-## [Ch App](https://github.com/rrebi/School-Projects/tree/main/Projects%20C%23/Ch_Abrudan_Rebeca) <br>
+ ## [Ch App](https://github.com/rrebi/School-Projects/tree/main/Projects%20C%23/Ch_Abrudan_Rebeca) <br>
  • todo?
  
 
@@ -27,6 +27,11 @@ Some of my school projects from "C.N. Emanuil Gojdu", Oradea
  • todo?
  
  
-  ## [TTT App](https://github.com/rrebi/School-Projects/tree/main/Projects%20C%23/TTT_Abrudan_Rebeca) <br>
+ ## [TTT App](https://github.com/rrebi/School-Projects/tree/main/Projects%20C%23/TTT_Abrudan_Rebeca) <br>
  • todo?
 
+<br><br>
+
+# [Chicken Invaders](https://github.com/rrebi/School-Projects/tree/main/Certificate-Final-Year)<br>
+Atestat clasa a 12a informatica
+• Chicken Invaders game
