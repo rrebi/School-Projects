@@ -1,0 +1,10 @@
+D:\Proiecte VS\Calculator_Abrudan_Rebeca\Calculator_Abrudan_Rebeca\bin\Debug\Calculator_Abrudan_Rebeca.exe.config
+D:\Proiecte VS\Calculator_Abrudan_Rebeca\Calculator_Abrudan_Rebeca\bin\Debug\Calculator_Abrudan_Rebeca.exe
+D:\Proiecte VS\Calculator_Abrudan_Rebeca\Calculator_Abrudan_Rebeca\bin\Debug\Calculator_Abrudan_Rebeca.pdb
+D:\Proiecte VS\Calculator_Abrudan_Rebeca\Calculator_Abrudan_Rebeca\obj\Debug\Calculator_Abrudan_Rebeca.csprojAssemblyReference.cache
+D:\Proiecte VS\Calculator_Abrudan_Rebeca\Calculator_Abrudan_Rebeca\obj\Debug\Calculator_Abrudan_Rebeca.Form1.resources
+D:\Proiecte VS\Calculator_Abrudan_Rebeca\Calculator_Abrudan_Rebeca\obj\Debug\Calculator_Abrudan_Rebeca.Properties.Resources.resources
+D:\Proiecte VS\Calculator_Abrudan_Rebeca\Calculator_Abrudan_Rebeca\obj\Debug\Calculator_Abrudan_Rebeca.csproj.GenerateResource.cache
+D:\Proiecte VS\Calculator_Abrudan_Rebeca\Calculator_Abrudan_Rebeca\obj\Debug\Calculator_Abrudan_Rebeca.csproj.CoreCompileInputs.cache
+D:\Proiecte VS\Calculator_Abrudan_Rebeca\Calculator_Abrudan_Rebeca\obj\Debug\Calculator_Abrudan_Rebeca.exe
+D:\Proiecte VS\Calculator_Abrudan_Rebeca\Calculator_Abrudan_Rebeca\obj\Debug\Calculator_Abrudan_Rebeca.pdb
